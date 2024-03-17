@@ -38,7 +38,7 @@ Your feedback is invaluable to us! If you have any questions, comments, or sugge
 
 ## License
 
-Mix-Match is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+Mix-Match is licensed under the MIT License. 
 
 ---
 
