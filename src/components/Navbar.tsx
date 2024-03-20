@@ -37,7 +37,7 @@ export default function Navbar() {
         <a href='/main' className="mixMatchLink">
           {/* <h1>MixMatch</h1> */}
           <img
-            src="https://gcdnb.pbrd.co/images/4lVNPWUjg0ye.png?o=1"
+            src="../../public/MixMatch Logo.png"
             alt="MixMatch"
             className="logo"
           />
